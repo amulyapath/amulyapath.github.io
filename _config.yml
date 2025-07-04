@@ -1,8 +1,6 @@
 title: Amulya Pathania
 description: Manufacturing Engineering Portfolio
-remote_theme: mmistakes/so-simple-theme
-plugins:
-  - jekyll-remote-theme
+theme: minima
 footer_links:
   - title: LinkedIn
     url: https://www.linkedin.com/in/amulya-pathania/
