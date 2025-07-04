@@ -1,6 +1,6 @@
 ---
 layout: home
-title: "Welcome to My Portfolio"
+title: Home
 ---
 
 Hi! I’m Amulya, a second-year Manufacturing Engineering student at UBC.  
