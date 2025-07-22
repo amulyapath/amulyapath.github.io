@@ -1,6 +1,6 @@
 ---
-layout: default
-title: 
+layout: page
+title: Home
 ---
 
 Hi! I’m Amulya, a third-year Manufacturing Engineering student at UBC.  
