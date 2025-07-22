@@ -1,12 +1,15 @@
 body {
-  background-color: #C3B1E1; /* pastel purple */
+  /* pastel purple */
+  background-color: #C3B1E1; 
 }
 
 .site-header, .site-footer {
-  background-color: #222; /* dark footer and header */
+  /* dark footer and header */
+  background-color: #222; 
   color: white;
 }
 
 a {
-  color: #524f81; /* link color: peep purple */
+  /* link color: deep purple */
+  color: #524f81; 
 }
