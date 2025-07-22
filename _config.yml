@@ -3,6 +3,11 @@ description: Manufacturing Engineering Portfolio
 
 remote_theme: jekyll/minima
 
+header_pages:
+  - resume.md
+  - projects.md
+  - about.md
+  
 minima:
   skin: classic
   include_css:
