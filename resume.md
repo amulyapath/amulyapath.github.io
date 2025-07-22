@@ -1,9 +1,8 @@
 ---
 layout: page
-title: 
+title: resume
 permalink: /resume/
 ---
 
-# Resume
 
 You can download or view my resume here:  
