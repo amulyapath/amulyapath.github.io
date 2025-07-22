@@ -1,0 +1,12 @@
+body {
+  background-color: #f9f7f4; /* light beige */
+}
+
+.site-header, .site-footer {
+  background-color: #222; /* dark footer and header */
+  color: white;
+}
+
+a {
+  color: #007acc; /* link color */
+}
