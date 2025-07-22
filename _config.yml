@@ -1,12 +1,12 @@
 title: Amulya Pathania
 description: Manufacturing Engineering Portfolio
 
-#remote_theme: jekyll/minima
-theme: jekyll-theme-cayman
-#minima:
-  #skin: classic
-include_css:
-  - /assets/css/custom.css
+remote_theme: jekyll/minima
+
+minima:
+  skin: classic
+  include_css:
+    - assets/css/custom.css
 
 footer_links:
   - title: LinkedIn
