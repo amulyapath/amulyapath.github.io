@@ -1,12 +1,11 @@
 body {
-  /* pastel purple */
-  background-color: #C3B1E1; 
+  /* light beige */
+  background-color: #F3E8EE; 
 }
 
 .site-header, .site-footer {
-  /* dark footer and header */
-  background-color: #222; 
-  color: white;
+   /* pastel purple */
+  background-color: #C3B1E1; 
 }
 
 a {
