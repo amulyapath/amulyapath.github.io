@@ -13,7 +13,7 @@ If you're interested in talking to me for hours, bring up video games such as Cy
 </div>
 
  <div style="flex-shrink: 0;">
-    <img src="/profile.pic.jpg" alt="Amulya Pathania" style="width: 200px; border-radius: 8px;" />
+    <img src="/profile.pic.jpg" alt="Amulya Pathania" style="width: 300px; border-radius: 8px;" />
   </div>
 
 </div>
