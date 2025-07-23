@@ -5,6 +5,6 @@ permalink: /
 ---
 
 Hi! I’m Amulya, a third-year Manufacturing Engineering student at UBC.  
-Check out my resume, projects, and about me page below!
+Check out my About Me, Projects, and Resume pages below!
 
-[Resume](/resume/) | [Projects](/projects/) | [About Me](/about/)
+[About Me](/about/) | [Projects](/projects/) | [Resume](/resume/)
