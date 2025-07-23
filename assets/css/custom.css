@@ -1,6 +1,6 @@
 body {
   /* light beige */
-  background-color: #F3E8EE; 
+  background-color: #F3E8EE !important; 
 }
 
 .site-header, .site-footer {
@@ -9,6 +9,6 @@ body {
 }
 
 a {
-  /* link color: deep purple */
+  /* link colour: deep purple */
   color: #524f81; 
 }
