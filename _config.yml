@@ -1,13 +1,12 @@
 title: Amulya Pathania
 description: Manufacturing Engineering Portfolio
 
-remote_theme: jekyll/minima
-
 header_pages:
   - resume.md
   - projects.md
   - about.md
   
+theme: minima
 minima:
   skin: classic
   include_css:
