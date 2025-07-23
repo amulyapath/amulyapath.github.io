@@ -3,6 +3,10 @@ body {
   background-color: #F3E8EE !important; 
 }
 
+.page-wrapper {
+  background-color: #F3E8EE !important;
+}
+
 .site-header, .site-footer {
    /* pastel purple */
   background-color: #C3B1E1; 
