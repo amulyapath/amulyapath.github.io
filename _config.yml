@@ -1,16 +1,19 @@
 title: Amulya Pathania
 description: Manufacturing Engineering Portfolio
+url: "https://amulyapath.github.io"
+
+remote_theme: mmistakes/minimal-mistakes@4.24.0
+
+plugins:
+  - jekyll-remote-theme
+
+# Optional but recommended
+minimal_mistakes_skin: "default"  # try "air", "dark", "mint" etc.
 
 header_pages:
   - about.md
   - projects.md
   - resume.md
-  
-theme: minima
-minima:
-  skin: classic
-  include_css:
-    - assets/css/custom.css
 
 footer_links:
   - title: LinkedIn
