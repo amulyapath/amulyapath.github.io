@@ -4,7 +4,6 @@ title: Resume
 permalink: /resume/
 ---
 
-You can download my resume here:
 [Download Resume (PDF)](/amulya_pathania_resume_NB.pdf)
 
 <br>
