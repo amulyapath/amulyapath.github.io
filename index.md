@@ -1,7 +1,7 @@
 ---
-layout: home 
-title: Welcome
-author_profile: true
+layout: page
+title:
+permalink: /
 ---
 
 Hi! I’m Amulya, a third-year Manufacturing Engineering student at UBC.  
