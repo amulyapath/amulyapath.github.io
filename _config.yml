@@ -10,7 +10,7 @@ theme: minima
 minima:
   skin: classic
   include_css:
-    - /assets/css/custom.css
+    - assets/css/custom.css
 
 footer_links:
   - title: LinkedIn
