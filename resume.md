@@ -1,7 +1,8 @@
 ---
-layout: page
-title: Resume
+layout: single
+title: "Resume"
 permalink: /resume/
+author_profile: true
 ---
 
 <div style="display: flex; gap: 20px;">
