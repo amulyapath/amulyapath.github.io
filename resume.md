@@ -9,6 +9,6 @@ permalink: /resume/
   <img src="/profile2.jpg" alt="Picture 2" style="width: 250px; border-radius: 8px;">
 </div>
 
-<be>
+<br>
 
 [Download Resume (PDF)](/amulya_pathania_resume_NB.pdf)
