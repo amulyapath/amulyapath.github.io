@@ -1,13 +1,10 @@
 title: Amulya Pathania
 description: Manufacturing Engineering Portfolio
-url: "https://amulyapath.github.io"
 
-# Use the remote theme
-remote_theme: mmistakes/minimal-mistakes
-
-# Optional: Enable plugins
-plugins:
-  - jekyll-include-cache
+theme: minima
+minima:
+  include_css:
+    - /assets/css/custom.css
 
 header_pages:
   - about.md
