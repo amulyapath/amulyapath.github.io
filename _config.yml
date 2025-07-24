@@ -1,17 +1,25 @@
 title: Amulya Pathania
 description: Manufacturing Engineering Portfolio
 
-theme: minima
-minima:
-  include_css:
-    - /assets/css/custom.css
+plugins:
+  - jekyll-include-cache
 
-header_pages:
-  - about.md
-  - projects.md
-  - resume.md
+# Use the remote theme
+remote_theme: "mmistakes/minimal-mistakes@4.27.2"
 
-footer_links:
-  - title: LinkedIn
-    url: https://www.linkedin.com/in/amulya-pathania/
-    icon: fab fa-linkedin
+# Optional but recommended
+markdown: kramdown
+highlighter: rouge
+
+# Minimal Mistakes settings
+minimal_mistakes_skin: "default"  # You can change to "dark", "air", "sunrise", etc.
+
+#header_pages:
+#  - about.md
+ # - projects.md
+#  - resume.md
+
+#footer_links:
+#  - title: LinkedIn
+#    url: https://www.linkedin.com/in/amulya-pathania/
+ #   icon: fab fa-linkedin
