@@ -5,4 +5,4 @@ permalink: /resume/
 ---
 
 
-You can download or view my resume here:  
+You can download my resume here:  
