@@ -10,9 +10,10 @@
 }
 
 .footer-container {
-  display: flex;
-  justify-content: space-between;
-  max-width: 600px;  /* limits how wide the footer items can spread */
-  margin: 0 auto;    /* centers the container */
-  align-items: center;
+  display: flex;             /* <-- important for side-by-side */
+  justify-content: space-between; /* spread items */
+  max-width: 600px;          /* limits width */
+  margin: 0 auto;            /* center horizontally */
+  align-items: center;       /* vertically align */
+  gap: 20px;                 /* optional spacing between items */
 }
