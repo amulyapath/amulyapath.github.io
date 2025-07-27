@@ -4,10 +4,9 @@ description: Manufacturing Engineering Portfolio
 plugins:
   - jekyll-include-cache
 
-# Use the remote theme
+# the remote theme
 remote_theme: "mmistakes/minimal-mistakes@4.27.2"
 
-# Optional but recommended
 markdown: kramdown
 highlighter: rouge
 
