@@ -1,6 +1,6 @@
-.author-profile img {
+.author__avatar img {
   filter: none !important;
-  -webkit-filter: none !important;
+  transition: none !important;
 }
 
 .site-footer {
