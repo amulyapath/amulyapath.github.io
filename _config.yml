@@ -6,14 +6,16 @@ plugins:
 
 # the remote theme
 remote_theme: "mmistakes/minimal-mistakes@4.27.2"
+minimal_mistakes_skin: "dark"  # like: air, aqua, contrast, dark, default, night, plum, white, storm
 
+# Plugins
+plugins:
+  - jekyll-include-cache
+
+# Markdown processor
 markdown: kramdown
 highlighter: rouge
 
-# Minimal Mistakes settings
-minimal_mistakes_skin: "dark"  # like: air, aqua, contrast, dark, default, night, plum, white, storm
-
-#header_pages:
-#  - about.md
-#  - projects.md
-#  - resume.md
+# Include custom CSS
+include:
+  - assets/css/custom.css
