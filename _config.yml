@@ -11,12 +11,12 @@ markdown: kramdown
 highlighter: rouge
 
 # Minimal Mistakes settings
-minimal_mistakes_skin: "neon"  # all: air, aqua, contrast, dark, default, dirt, neon, night, mint, plum, sunrise (don't like), white, storm
+minimal_mistakes_skin: "aqua"  # all: air, aqua, contrast, dark, default, dirt, neon, night, mint, plum, sunrise (don't like), white, storm
 
 header_pages:
-  - about.md
-  - projects.md
-  - resume.md
+  - pages/about.md
+  - pages/projects.md
+  - pages/resume.md
 
 footer_links:
   - label: "Portfolio"
