@@ -14,7 +14,6 @@ highlighter: rouge
 minimal_mistakes_skin: "air"  # all: air, aqua, contrast, dark, default, dirt, neon, night, mint, plum, sunrise (don't like), white, storm
 
 header_pages:
-  - welcome.md
   - about.md
   - projects.md
   - resume.md
