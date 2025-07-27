@@ -2,6 +2,7 @@
 layout: single
 title: "Welcome"
 permalink: /
+author: amulya
 author_profile: true
 ---
 
