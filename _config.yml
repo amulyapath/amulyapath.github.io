@@ -18,5 +18,5 @@ header_pages:
   - projects.md
   - resume.md
 
-  navigation:
+navigation:
   - name: main
