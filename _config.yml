@@ -17,9 +17,3 @@ header_pages:
   - pages/about.md
   - pages/projects.md
   - pages/resume.md
-
-footer_links:
-  - label: "Portfolio"
-    url: "https://amulyapath.github.io"
-  - label: "LinkedIn"
-    url: "https://www.linkedin.com/in/amulya-pathania/"
