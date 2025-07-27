@@ -2,3 +2,17 @@
   filter: none !important;
   -webkit-filter: none !important;
 }
+
+.site-footer {
+  background-color: #c3b1e1; /* pastel purple or whatever */
+  color: white;
+  padding: 1rem;
+}
+
+.footer-container {
+  display: flex;
+  justify-content: space-between;
+  max-width: 600px;  /* limits how wide the footer items can spread */
+  margin: 0 auto;    /* centers the container */
+  align-items: center;
+}
