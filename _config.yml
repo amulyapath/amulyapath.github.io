@@ -11,12 +11,13 @@ markdown: kramdown
 highlighter: rouge
 
 # Minimal Mistakes settings
-minimal_mistakes_skin: "default"  # You can change to "dark", "air", "sunrise", etc.
+minimal_mistakes_skin: "air"  # You can change to "dark", "air", "sunrise", etc.
 
 header_pages:
+  - welcome.md
   - about.md
-  - resume.md
   - projects.md
+  - resume.md
     
 footer:
   links:
