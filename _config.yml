@@ -11,7 +11,7 @@ markdown: kramdown
 highlighter: rouge
 
 # Minimal Mistakes settings
-minimal_mistakes_skin: "air"  # You can change to "dark", "air", "sunrise", etc.
+minimal_mistakes_skin: "sunrise"  # You can change to "dark", "air", "sunrise", etc.
 
 header_pages:
   - welcome.md
