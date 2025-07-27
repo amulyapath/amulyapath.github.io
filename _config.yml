@@ -18,8 +18,12 @@ header_pages:
   - projects.md
   - resume.md
 
-footer:
-  links: false
+defaults:
+  - scope:
+      path: ""
+    values:
+      custom_css:
+        - /assets/css/custom.css
     
 #footer:
 #  links:
