@@ -13,7 +13,7 @@ highlighter: rouge
 # Minimal Mistakes settings
 minimal_mistakes_skin: "contrast"  # all: air, aqua, contrast, dark, default, dirt, neon (don't like), night, mint, plum, sunrise (don't like), white, storm
 
-header_pages:
-  - about.md
-  - projects.md
-  - resume.md
+#header_pages:
+#  - about.md
+#  - projects.md
+#  - resume.md
