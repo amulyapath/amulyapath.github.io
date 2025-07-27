@@ -22,7 +22,8 @@ navigation:
   - title: "Resume"
     url: /resume/
     
-#footer_links:
-#  - title: LinkedIn
-#    url: https://www.linkedin.com/in/amulya-pathania/
- #   icon: fab fa-linkedin
+footer:
+  links:
+    - label: "LinkedIn"
+      icon: "fab fa-linkedin"
+      url: "https://www.linkedin.com/in/amulya-pathania/"
