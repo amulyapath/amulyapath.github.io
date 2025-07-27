@@ -15,5 +15,5 @@
   max-width: 600px;          /* limits width */
   margin: 0 auto;            /* center horizontally */
   align-items: center;       /* vertically align */
-  gap: 20px;                 /* optional spacing between items */
+  gap: 10px;                 /* optional spacing between items */
 }
