@@ -1,3 +1,4 @@
-.page__footer {
-  display: none !important;
+.author-profile img {
+  filter: none !important;
+  -webkit-filter: none !important;
 }
