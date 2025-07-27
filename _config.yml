@@ -18,9 +18,12 @@ header_pages:
   - about.md
   - projects.md
   - resume.md
-    
+
 footer:
-  links:
-    - label: "LinkedIn"
-      icon: "fab fa-linkedin"
-      url: "https://www.linkedin.com/in/amulya-pathania/"
+  links: false
+    
+#footer:
+#  links:
+#    - label: "LinkedIn"
+#      icon: "fab fa-linkedin"
+#      url: "https://www.linkedin.com/in/amulya-pathania/"
