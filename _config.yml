@@ -11,7 +11,7 @@ markdown: kramdown
 highlighter: rouge
 
 # Minimal Mistakes settings
-minimal_mistakes_skin: "night"  # all: air, aqua, contrast, dark, default, dirt, neon, night, mint, plum, sunrise (don't like), white, storm
+minimal_mistakes_skin: "storm"  # all: air, aqua, contrast, dark, default, dirt, neon, night, mint, plum, sunrise (don't like), white, storm
 
 header_pages:
   - about.md
