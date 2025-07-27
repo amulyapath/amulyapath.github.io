@@ -14,13 +14,10 @@ highlighter: rouge
 # Minimal Mistakes settings
 minimal_mistakes_skin: "default"  # You can change to "dark", "air", "sunrise", etc.
 
-navigation:
-  - title: "About Me"
-    url: /about/
-  - title: "Projects"
-    url: /projects/
-  - title: "Resume"
-    url: /resume/
+header_pages:
+  - about.md
+  - resume.md
+  - projects.md
     
 footer:
   links:
