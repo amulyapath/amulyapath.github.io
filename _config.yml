@@ -1,5 +1,5 @@
-title: Amulya Pathania
-description: Manufacturing Engineering Portfolio
+title: Manufacturing Engineering Portfolio
+#description: Manufacturing Engineering Portfolio
 
 plugins:
   - jekyll-include-cache
