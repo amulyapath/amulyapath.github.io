@@ -1,6 +1,9 @@
 amulya:
-  name: Amulya Pathania
-  avatar: headshotUBC.jpg   
-  bio: "Third-year Manufacturing Engineering student at UBC, passionate about technology and sustainable design."
-  location: Vancouver, BC
-  linkedin: https://www.linkedin.com/in/amulya-pathania/
+  name        : "Amulya Pathania"
+  avatar      : "profile.jpg"  # optional
+  bio         : "Third-year Manufacturing Engineering student at UBC. Passionate about design and innovation!"
+  location    : "Vancouver, Canada"
+  links:
+    - label: "LinkedIn"
+      icon: "fab fa-linkedin"
+      url: "https://www.linkedin.com/in/YOUR-LINKEDIN/"
