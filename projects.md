@@ -2,6 +2,8 @@
 layout: single
 title: "Projects"
 permalink: /projects/
+author: amulya
+author_profile: true
 ---
 
 <details>
