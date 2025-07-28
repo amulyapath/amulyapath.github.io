@@ -14,5 +14,5 @@ markdown: kramdown
 highlighter: rouge
 
 # Include custom CSS
-include:
-  - assets/css/custom.css
+#include:
+#  - assets/css/custom.css
