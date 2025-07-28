@@ -7,16 +7,8 @@ plugins:
 
 # the remote theme
 remote_theme: "mmistakes/minimal-mistakes@4.27.2"
-minimal_mistakes_skin: "dark"  # like: air, aqua, contrast, dark, default, night, plum, white, storm
+minimal_mistakes_skin: "air"  # like: air, aqua, contrast, dark, default, night, plum, white, storm
 
 # Markdown processor
 markdown: kramdown
 highlighter: rouge
-
-footer:
-  footer_text: "Manufacturing Engineering Portfolio"
-  links:
-    - label: "LinkedIn"
-      icon: "fab fa-linkedin"
-      url: "https://www.linkedin.com/in/amulya-pathania/"
-    
