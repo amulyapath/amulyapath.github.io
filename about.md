@@ -11,6 +11,7 @@ author_profile: true
 <p style="font-size: 0.8rem;">
   I’m Amulya and I'm passionate about technology and sustainable design...// about me: engineering passion/ hobbies/ picture
  <br> 
+ <br> 
  If you're interested in talking to me for hours, bring up video games such as Cyberpunk 2077, Red Dead Redemption 2, Final Fantasy 7/15/16, Baldur's Gate 3, or any other RPG!
 </p>
 </div>
