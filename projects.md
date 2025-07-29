@@ -8,8 +8,8 @@ author_profile: true
 
 <details>
   <summary><strong>Rover ~ October 2024 - August 2025</strong></summary>
-  <p>
-    Explanation here
+  <p style="font-size: 0.9rem;">
+  This paragraph has smaller text.
   </p>
 </details>
 
