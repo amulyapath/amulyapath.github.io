@@ -6,8 +6,8 @@ author: amulya
 author_profile: true
 --- 
 
-<div style="display: flex; justify-content: flex-start; align-items: center; gap: 40px; margin-left: 100px;">
-  <div style="flex: 1; max-width: 600px;">
+<div style="display: flex; align-items: center; gap: 50px;">
+  <div style="flex: 1;">
     <p style="font-size: 0.8rem;">
       I’m Amulya and I'm passionate about technology and sustainable design...// about me: engineering passion/ hobbies/ picture
       <br><br>
