@@ -2,6 +2,8 @@
 layout: single
 title: "About Me"
 permalink: /about/
+author: amulya
+author_profile: true
 --- 
 
 <div style="display: flex; align-items: center; gap: 20px;">
