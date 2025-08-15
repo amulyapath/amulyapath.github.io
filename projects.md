@@ -13,11 +13,9 @@ author_profile: true
   </p>
 </details>
 
-<!--
-<details>
+<!-- <details>
   <summary><strong>school project here? (car) </strong></summary>
   <p style="font-size: 0.8rem;">
   explaination here!!
   </p>
-</details>
---!>
+</details> -->
