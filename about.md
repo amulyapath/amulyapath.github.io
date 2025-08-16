@@ -18,7 +18,7 @@ author_profile: true
   </div>
 
   <div style="flex: 1 1 300px; display: flex; align-items: center; justify-content: center;">
-    <img src="profile.pic.jpg" 
+    <img src="/profile.pic.jpg" 
          alt="Portrait" 
          style="width: 100%; max-width: 420px; height: auto; border-radius: 8px;" />
   </div>
