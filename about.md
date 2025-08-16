@@ -17,7 +17,9 @@ author_profile: true
     </p>
   </div>
 
-  <div style="flex: 1; display: flex; align-items: center; justify-content: flex-end;">
-    <img src="/profile.pic.jpg" alt="Amulya Pathania" style="width: 400px; border-radius: 8px;" />
+  <div style="flex: 1; display: flex; align-items: center; justify-content: center;">
+    <img src="/profile.pic.jpg" 
+         alt="Amulya Pathania" 
+         style="width: 100%; max-width: 500px; border-radius: 8px;" />
   </div>
 </div>
