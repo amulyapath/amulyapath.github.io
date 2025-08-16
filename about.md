@@ -6,7 +6,13 @@ author: amulya
 author_profile: true
 --- 
 
-<div style="max-width: 800px; margin: 0 auto; text-align: left;">
+<div style="max-width: 800px; margin: 0 auto;">
+  <!-- Image floats top-right -->
+  <img src="/profile.pic.jpg" 
+       alt="Portrait" 
+       style="float: right; width: 250px; margin-left: 20px; margin-bottom: 20px; border-radius: 8px;" />
+
+<!-- Text wraps around the image -->
   <p style="font-size: 0.78rem; line-height: 1.5;">
       I’m Amulya, and I'm passionate about how large-scale systems, advanced machinery, and automation could transform the way we live. I'm especially drawn to how engineering brings big ideas to life, as working         on conceptual designs that turn into tangible products excites me! 
       <br><br>
@@ -15,10 +21,3 @@ author_profile: true
       If you're interested in talking to me for hours, bring up video games such as <em>Cyberpunk 2077</em>, <em>Final Fantasy VII/XV/XVI</em>, <em>Dragon Age: Inquisition</em>, <em>God of War</em>, or nearly any         RPG/JRPG! I enjoy going on hikes, completing kinetic 3D wooden puzzles, and spending time at the beach with a sci-fi novel in hand. 
     </p>
   </div>
-
-  <div style="text-align: center; margin-top: 30px;">
-    <img src="profile.pic.jpg" 
-         alt="Amulya Pathania" 
-         style="width: 100%; max-width: 400px; height: auto; border-radius: 8px;" />
-  </div>
-</div>
