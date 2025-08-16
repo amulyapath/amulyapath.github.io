@@ -24,11 +24,11 @@ author_profile: true
 
   <b>Finished Carousel:</b> 
   <br>
-    <img src="car3.JPG" 
+    <img src="/car3.JPG" 
        alt="carousel image 1" 
        style="width: 100%; max-width: 800px; height: auto; border-radius: 8px;" />
        
-  <img src="carousel1.JPG" 
+  <img src="/carousel1.JPG" 
       alt="carousel image 2" 
       style="width: 100%; max-width: 800px; height: auto; border-radius: 8px;" />
   <br><br>
@@ -39,11 +39,11 @@ author_profile: true
 We attended CIRC 2025 this year, which did not include a science task. Instead of attaching Rover Lab to the rover, we showcased our work on an acrylic board to present our team’s first-ever attempt at developing a working model for URC's science task. Looking ahead, we plan to compete at URC 2026, and as this was our team's inaugural effort on the science task, we learned a great deal and are excited to return with a fully integrated Rover Lab.
 <br><br>
 
-<img src="rover.lab.2.jpg" 
+<img src="/rover.lab.2.jpg" 
        alt="CIRC rover lab" 
        style="width: 100%; max-width: 800px; height: auto; border-radius: 8px;" />
 
-<img src="with.rover.JPG" 
+<img src="/with.rover.JPG" 
        alt="CIRC rover" 
        style="width: 100%; max-width: 800px; height: auto; border-radius: 8px;" />
     
