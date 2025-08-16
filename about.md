@@ -17,8 +17,8 @@ author_profile: true
   </div>
 
   <div style="text-align: center; margin-top: 30px;">
-    <img src="/profile.pic.jpg" 
-         alt="Portrait" 
-         style="width: 100%; max-width: 500px; height: auto; border-radius: 8px;" />
+    <img src="profile.pic.jpg" 
+         alt="Amulya Pathania" 
+         style="width: 100%; max-width: 400px; height: auto; border-radius: 8px;" />
   </div>
 </div>
