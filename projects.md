@@ -27,10 +27,13 @@ author_profile: true
     <img src="/car3.JPG" 
        alt="carousel image 1" 
        style="width: 100%; max-width: 800px; height: auto; border-radius: 8px;" />
-       
-  <img src="/carousel1.JPG" 
-      alt="carousel image 2" 
-      style="width: 100%; max-width: 800px; height: auto; border-radius: 8px;" />
+  <br><br>
+
+  <b>Completed Rover Lab:</b> 
+  <br>
+    <img src="/rover.lab.JPG" 
+       alt="Rover Lab" 
+       style="width: 100%; max-width: 800px; height: auto; border-radius: 8px;" />  
   <br><br>
 
   <b>CIRC 2025</b> 
@@ -42,6 +45,7 @@ We attended CIRC 2025 this year, which did not include a science task. Instead o
 <img src="/rover.lab.2.jpg" 
        alt="CIRC rover lab" 
        style="width: 100%; max-width: 800px; height: auto; border-radius: 8px;" />
+<br><br>
 
 <img src="/with.rover.JPG" 
        alt="CIRC rover" 
@@ -50,6 +54,7 @@ We attended CIRC 2025 this year, which did not include a science task. Instead o
   </p>
 </details>
 
+<!--Start of project -->
 <details>
   <summary><strong>Rover | September 2025 - present  </strong></summary>
   <p style="font-size: 0.8rem;">
@@ -62,6 +67,7 @@ We attended CIRC 2025 this year, which did not include a science task. Instead o
   </p>
 </details>
 
+<!--Start of project -->
 <!-- <details>
   <summary><strong>school project here? (car) </strong></summary>
   <p style="font-size: 0.8rem;">
