@@ -6,9 +6,8 @@ author: amulya
 author_profile: true
 --- 
 
-<div style="display: flex; align-items: center; gap: 30px; flex-wrap: wrap;">
-  <div style="flex: 2 1 500px; max-width: 50%;">
-    <p style="font-size: 0.78rem; line-height: 1.5;">
+<div style="max-width: 800px; margin: 0 auto; text-align: left;">
+  <p style="font-size: 0.78rem; line-height: 1.5;">
       I’m Amulya, and I'm passionate about how large-scale systems, advanced machinery, and automation could transform the way we live. I'm especially drawn to how engineering brings big ideas to life, as working         on conceptual designs that turn into tangible products excites me! 
       <br><br>
       Working on UBC Rover taught me hands-on about designing and CAD work, and by contributing to a team that focuses on automation and space exploration, which aligns perfectly with my interests, it’s deepened          my passion for creating! While I’m still exploring the industries I may want to specialize in, I’m particularly excited about automation, aerospace, biomanufacturing, consumer electronics and emerging               technologies. My goal is to contribute to projects that push the limits of what’s possible!
@@ -17,9 +16,9 @@ author_profile: true
     </p>
   </div>
 
-  <div style="flex: 1 1 300px; display: flex; align-items: center; justify-content: center;">
+  <div style="text-align: center; margin-top: 30px;">
     <img src="/profile.pic.jpg" 
          alt="Portrait" 
-         style="width: 100%; max-width: 420px; height: auto; border-radius: 8px;" />
+         style="width: 100%; max-width: 500px; height: auto; border-radius: 8px;" />
   </div>
 </div>
