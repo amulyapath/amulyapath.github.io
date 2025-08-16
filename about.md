@@ -6,8 +6,8 @@ author: amulya
 author_profile: true
 --- 
 
-<div style="display: flex; align-items: center; gap: 30px; flex-wrap: wrap;">
-  <div style="flex: 2 1 500px; max-width: 65%;">
+<div style="display: flex; align-items: center; gap: 30px;">
+  <div style="flex: 2; max-width: 70%;">
     <p style="font-size: 0.78rem; line-height: 1.5;">
       I’m Amulya, and I'm passionate about how large-scale systems, advanced machinery, and automation could transform the way we live. I'm especially drawn to how engineering brings big ideas to life, as working         on conceptual designs that turn into tangible products excites me! 
       <br><br>
@@ -17,9 +17,9 @@ author_profile: true
     </p>
   </div>
 
-  <div style="flex: 1 1 350px; display: flex; justify-content: center;">
-   <img src="profile.pic.jpg" 
-        alt="Amulya Pathania" 
-        style="width: 100%; max-width: 420px; height: auto; border-radius: 8px;" />
+  <div style="flex: 1 1 350px; display: flex; align-items: center; justify-content: center;">
+    <img src="profile.pic.jpg" 
+         alt="Amulya Pathania" 
+         style="width: 100%; max-width: 420px; height: auto; border-radius: 8px;" />
   </div>
 </div>
