@@ -39,7 +39,7 @@ author_profile: true
   <b>CIRC 2025</b> 
   <br>
 
-We attended CIRC 2025 this year, which did not include a science task. Instead of attaching Rover Lab to the rover, we showcased our work on an acrylic board to present our team’s first-ever attempt at developing a working model for URC's science task. Looking ahead, we plan to compete at URC 2026, and as this was our team's inaugural effort on the science task, we learned a great deal and are excited to return with a fully integrated Rover Lab.
+We attended CIRC 2025 this year, which did not include a science task. Instead of attaching Rover Lab to the rover, we showcased our work on an acrylic board to present our team’s first-ever attempt at developing a working model for URC's science task. Looking ahead, we plan to compete at URC 2026! We learned a lot this year, this was our team's inaugural effort on the science task, and are excited to return with a fully integrated Rover Lab.
 <br><br>
 
 <img src="/rover.lab.2.jpg" 
