@@ -19,7 +19,24 @@ author_profile: true
     
   <b>SolidWorks CAD: </b>
   <br><br>
-  (image)
+  <img src="/car.cad.png" 
+       alt="carousel cad 1" 
+       style="width: 100%; max-width: 800px; height: auto; border-radius: 8px;" />
+  <br><br>
+
+  <img src="cad.car3.png" 
+       alt="assem image 1" 
+       style="width: 100%; max-width: 800px; height: auto; border-radius: 8px;" />
+  <br><br>
+
+  <img src="car.cad2.png" 
+       alt="assem image 2" 
+       style="width: 100%; max-width: 800px; height: auto; border-radius: 8px;" />
+  <br><br>
+
+  <img src="car.cad1.png" 
+       alt="assem image 3" 
+       style="width: 100%; max-width: 800px; height: auto; border-radius: 8px;" />
   <br><br>
 
   <b>Finished Carousel:</b> 
