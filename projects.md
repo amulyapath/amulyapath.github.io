@@ -89,6 +89,9 @@ We attended CIRC 2025 this year, which did not include a science task. Instead o
 <img src="/with.rover.JPG" 
        alt="CIRC rover" 
        style="width: 100%; max-width: 800px; height: auto; border-radius: 8px;" />
+<br><br> 
+<b>For more information about UBC Rover, check out the
+<a href="https://ubcrover.com/" target="_blank">website here!</a>!</b>
     
   </p>
 </details>
