@@ -14,7 +14,7 @@ author_profile: true
   <b><u>Project: Carousel </u></b>
   <br><br>
     
-  <b>Problem:<b> During my first year on UBC Rover I was tasked to find a way to efficently test multiple soil samples to determine whether or not there was life in the samples. As this was the first year of Rover Lab, I was able to design my own system from scratch and manufacture it as I saw fit! 
+  <b>Problem:</b> During my first year on UBC Rover I was tasked to find a way to efficently test multiple soil samples to determine whether or not there was life in the samples. As this was the first year of Rover Lab, I was able to design my own system from scratch and manufacture it as I saw fit! 
 <br><br>
   (next para)
   <br><br>
@@ -38,6 +38,11 @@ author_profile: true
 
   <img src="/car.cad1.png" 
        alt="assem image 3" 
+       style="width: 100%; max-width: 800px; height: auto; border-radius: 8px;" />
+  <br><br>
+
+  <img src="/cad.car4.png" 
+       alt="assem image 4" 
        style="width: 100%; max-width: 800px; height: auto; border-radius: 8px;" />
   <br><br>
 
