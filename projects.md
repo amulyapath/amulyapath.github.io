@@ -14,9 +14,17 @@ author_profile: true
   <b><u>Project: Carousel </u></b>
   <br><br>
     
-  <b>Problem:</b> During my first year on UBC Rover I was tasked to find a way to efficently test multiple soil samples to determine whether or not there was life in the samples. As this was the first year of Rover Lab, I was able to design my own system from scratch and manufacture it as I saw fit! 
-<br><br>
-  (next para)
+  <b>Situation:</b> During my first year on UBC Rover, I joined the Rover Lab subteam as a mechanical member. Rover Lab designs semi-autonomous laboratory systems that allow the Rover to conduct scientific         experiments for our science tasks in competition. One of the Rover Lab challenges I took on was creating a system that efficiently tested multiple soil samples for signs of life!
+  <br><br>
+
+  <b>Task:</b> I was responsible for designing, building and manufacturing this system. Since this was Rover Lab’s inaugural year, I had the opportunity to create my own solution from scratch and manufacture it    as I saw fit! 
+  <br><br>
+
+<b>Action:</b>To overcome this challenge, I brainstormed multiple designs, then created the most promising one in SolidWorks. By applying principles I learned from my mechanical Lead, like top-down designs and minimal sketches, I quickly became comfortable navigating SolidWorks and became very efficient with the software. Especially after applying a wide range of features across multiple design iterations. Once my CAD model was complete, I used additive manufacturing to prototype and eventually produce my final system. 
+  <br>  
+This was my first experience with CAD, 3D printing, and designing a system from scratch, so I learned how to quickly adapt and problem-solve in real time. Through this process, I discovered a passion for design and manufacturing, and gained valuable hands-on experience when turning my designs into tangible products. I found it very fulfilling to be in control of developing and creating my own ideas! I remember many moments where I would audibly gasp when I caught mistakes or when my Lead spotted improvements, as I just had so much pride in my design! At the end of the year, seeing my final system work as intended was a really exciting experience, igniting my passion for design in engineering! 
+<br> 
+Images of my completed SolidWorks CAD design are shown below!
   <br><br>
     
   <b>SolidWorks CAD: </b>
@@ -45,7 +53,14 @@ author_profile: true
        alt="assem image 4" 
        style="width: 100%; max-width: 800px; height: auto; border-radius: 8px;" />
   <br><br>
-
+  
+<b>Result:</b>The outcome for my task was a Carousel box equipped with mechanisms to complete its original purpose. With the stepper motor stopping at specific indices to allow the spectrophotometer to scan each sample, we had a fully autonomous system for soil sampling! Unfortunately, we could not attend URC 2025 this year, which had the science task we prepared for, so our final Rover Lab was displayed during CIRC 2025 instead. 
+ <br>
+Designing a system from scratch taught me a lot about prototyping effectively and taking a project from concept to product. I gained experience with CAD, 3D printing and designing for real-world problems! To effectively implement my mechanical system, I needed to collaborate closely with the Science team to ensure the system would support their experiments. This strengthened my cross-team communication and interdisciplinary problem-solving skills, especially after integrating with the Electrical and Software teams to ensure the system was fully autonomous. Overall, my first year on UBC Rover was an enjoyable and extremely satisfying experience that helped me grow as an engineering student! 
+ <br> 
+Images of the final Carousel box are shown below!  
+ <br><br>
+ 
   <b>Finished Carousel:</b> 
   <br><br>
     <img src="/car3.JPG" 
@@ -63,7 +78,7 @@ author_profile: true
   <b>CIRC 2025</b> 
   <br>
 
-We attended CIRC 2025 this year, which did not include a science task. Instead of attaching Rover Lab to the rover, we showcased our work on an acrylic board to present our team’s first-ever attempt at developing a working model for URC's science task. Looking ahead, we plan to compete at URC 2026! We learned a lot this year, this was our team's inaugural effort on the science task, and are excited to return with a fully integrated Rover Lab.
+We attended CIRC 2025 this year, which did not include a science task. Instead of attaching Rover Lab to the rover, we showcased our work on an acrylic board to present our team’s first-ever attempt at developing a working model for URC's science task. Looking ahead, we plan to compete at URC 2026! We learned a lot this year, as this was our team's first attempt at completing the science task, and we are excited to return with a fully integrated Rover Lab! 
 <br><br>
 
 <img src="/rover.lab.2.jpg" 
