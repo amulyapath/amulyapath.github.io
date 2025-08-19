@@ -14,7 +14,9 @@ author_profile: true
   <b><u>Project: Carousel </u></b>
   <br><br>
     
-  During my first year on UBC Rover... 
+  <b>Problem:<b> During my first year on UBC Rover I was tasked to find a way to efficently test multiple soil samples to determine whether or not there was life in the samples. As this was the first year of Rover Lab, I was able to design my own system from scratch and manufacture it as I saw fit! 
+<br><br>
+  (next para)
   <br><br>
     
   <b>SolidWorks CAD: </b>
