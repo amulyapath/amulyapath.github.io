@@ -13,7 +13,12 @@ author_profile: true
     
   <b><u>Project: Carousel </u></b>
   <br><br>
-    
+  <b>Carousel:</b> 
+  <br><br>
+    <img src="/car3.JPG" 
+       alt="carousel image 1" 
+       style="width: 100%; max-width: 800px; height: auto; border-radius: 8px;" />
+  <br><br>
   <b>Situation:</b> 
    <br>
   During my first year on UBC Rover, I joined the Rover Lab subteam as a mechanical member. Rover Lab designs semi-autonomous laboratory systems that allow the Rover to conduct scientific         experiments for   our science tasks in competition. One of the Rover Lab challenges I took on was creating a system that efficiently tested multiple soil samples for signs of life!
