@@ -12,7 +12,6 @@ author_profile: true
   <br>
     
   <b><u>Project: Carousel </u></b>
-  <br><br> 
   <br><br>
     <img src="/car3.JPG" 
        alt="carousel image 1" 
