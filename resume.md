@@ -8,4 +8,4 @@ author_profile: true
 
 Check out my resume below!
 
-[Download Resume (PDF)](/AmulyaPathania_resume_FULL.pdf)
+[Resume (PDF)](/AmulyaPathania_resume_FULL.pdf)
