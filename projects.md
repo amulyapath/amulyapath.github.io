@@ -32,7 +32,6 @@ The carousel developed skills such as problem-solving, mechanical design, SolidW
 <details>
   <summary><strong>Rover | Carousel </strong></summary>
   <p style="font-size: 0.8rem;">
-  <br>
     
   <br><br>
     <img src="/car3.JPG" 
