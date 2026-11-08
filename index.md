@@ -6,7 +6,7 @@ author: amulya
 author_profile: true
 ---
 
-Hi! I’m Amulya, a third-year Manufacturing Engineering student at UBC with a deep curiosity about how things are made! From aerospace components and electronics to automation and robotics, I'm interested in complex projects that can have large-scale impacts on our world. 
+Hi! I’m Amulya, a fourth-year Manufacturing Engineering student at UBC. From aerospace and shipbuilding to automation and robotics, I'm interested in complex projects that have large-scale impacts on our world. 
 <br><br>
 Check out my About Me, Projects, and Resume pages below!
 
