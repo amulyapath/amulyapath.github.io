@@ -14,10 +14,11 @@ author_profile: true
     
 Below is a quick portfolio covering three major projects that helped develop my engineering skills. Check it out! 
 <br><br>
+
 <iframe
-    src="{{ 'Engineering Portfolio.pdf' | relative_url }}"
+    src="{{ 'Engineering Portfolio.pdf' | relative_url }}#toolbar=0&navpanes=0&scrollbar=1"
     width="100%"
-    height="800px"
+    height="1000px"
     style="border: none;">
 </iframe>
 
@@ -39,9 +40,8 @@ In my third year of university, my team of seven were tasked with manufacturing 
 
 <details>
   <summary><strong>Rover | Carousel </strong></summary>
-  <p style="font-size: 0.8rem;">
-    
-  <br><br>
+  <p style="font-size: 0.8rem;">   
+  <br>
     <img src="/car3.JPG" 
        alt="carousel image 1" 
        style="width: 100%; max-width: 800px; height: auto; border-radius: 8px;" />
