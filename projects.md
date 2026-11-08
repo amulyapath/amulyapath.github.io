@@ -6,12 +6,23 @@ author: amulya
 author_profile: true
 ---
 
+<!--Start of project -->
 <details>
-  <summary><strong>Rover | September 2024 - August 2025</strong></summary>
+  <summary><strong>Portfolio </strong></summary>
+  <p style="font-size: 0.8rem;">
+  <br> 
+    
+Below is a quick portfolio covering three major projects that helped develop my engineering skills. The carousel developed skills such as problem-solving, mechanical design, SolidWorks, prototyping, testing, and additive manufacturing. The Spray-painting robot introduced me to automation through ClickPLC and VTScada. I learned ladder logic, critical thinking, and how to read P&ID drawings. In my third year of university, my team of seven were tasked with manufacturing multiple components to create a remote-controlled car. We thermoformed the shell, 3D-printed an injection-moulded prototype for the ladder, and sand-cast aluminum wheels. I made all of the SolidWorks models seen below. I tested the injection moulding capability of the die with simulations and generated the following engineering drawings. Check it out! 
+  </p>
+</details>
+
+<!--End of project -->
+
+<details>
+  <summary><strong>Rover | Carousel </strong></summary>
   <p style="font-size: 0.8rem;">
   <br>
     
-  <b><u>Project: Carousel </u></b>
   <br><br>
     <img src="/car3.JPG" 
        alt="carousel image 1" 
@@ -92,11 +103,6 @@ Images of the final Carousel box are shown below!
 We attended CIRC 2025 this year, which did not include a science task. Instead of attaching Rover Lab to the rover, we showcased our work on an acrylic board to present our team’s first-ever attempt at developing a working model for URC's science task. Looking ahead, we plan to compete at URC 2026! We learned a lot this year, as this was our team's first attempt at completing the science task, and we are excited to return with a fully integrated Rover Lab! 
 <br><br>
 
-<img src="/rover.lab.2.jpg" 
-       alt="CIRC rover lab" 
-       style="width: 100%; max-width: 800px; height: auto; border-radius: 8px;" />
-<br><br>
-
 <img src="/with.rover.JPG" 
        alt="CIRC rover" 
        style="width: 100%; max-width: 800px; height: auto; border-radius: 8px;" />
@@ -104,19 +110,6 @@ We attended CIRC 2025 this year, which did not include a science task. Instead o
 For more information about UBC Rover, check out the official website
 <a href="https://ubcrover.com/" target="_blank"> here!</a>
     
-  </p>
-</details>
-
-<!--Start of project -->
-<details>
-  <summary><strong>Rover | September 2025 - present  </strong></summary>
-  <p style="font-size: 0.8rem;">
-  <br>
-    
-  <b><u>Project: Soil Auger</u></b>
-  <br><br>
-    
-  I am currently working on this project, which focuses on retrieving sufficient soil samples for life-testing on the Rover.
   </p>
 </details>
 
