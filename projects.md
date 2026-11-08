@@ -23,7 +23,15 @@ Below is a quick portfolio covering three major projects that helped develop my 
 
 <br><br>
 
-The carousel developed skills such as problem-solving, mechanical design, SolidWorks, prototyping, testing, and additive manufacturing. The Spray-painting robot introduced me to automation through ClickPLC and VTScada. I learned ladder logic, critical thinking, and how to read P&ID drawings. In my third year of university, my team of seven were tasked with manufacturing multiple components to create a remote-controlled car. We thermoformed the shell, 3D-printed an injection-moulded prototype for the ladder, and sand-cast aluminum wheels. I made all of the SolidWorks models, tested the injection moulding capability of the die with simulations and generated the engineering drawings myself.
+The carousel developed skills such as problem-solving, mechanical design, SolidWorks, prototyping, testing, and additive manufacturing. 
+
+<br><br>
+
+The Spray-painting robot introduced me to automation through ClickPLC and VTScada. I learned ladder logic, critical thinking, and how to read P&ID drawings. 
+
+<br><br>
+
+In my third year of university, my team of seven were tasked with manufacturing multiple components for a remote-controlled car. We decided on building a fire truck, which involved thermoforming its shell, 3D-printing an injection-moulded prototype for its ladder, sand-casting aluminum wheels, and laying a glass-fibre chassis extender. I made the SolidWorks models, tested the injection moulding capability of the die with simulations and generated the engineering drawings seen above. I assisted in laying the glass-fibre and impact testing different orientations as well. 
   </p>
 </details>
 
