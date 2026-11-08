@@ -12,7 +12,7 @@ author_profile: true
   <p style="font-size: 0.8rem;">
   <br> 
     
-Below is a quick portfolio covering three major projects that helped develop my engineering skills. Check it out! 
+This is a simple portfolio covering three major projects that helped develop my engineering skills. Check it out! 
 <br><br>
 
 <iframe
