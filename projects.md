@@ -12,7 +12,18 @@ author_profile: true
   <p style="font-size: 0.8rem;">
   <br> 
     
-Below is a quick portfolio covering three major projects that helped develop my engineering skills. The carousel developed skills such as problem-solving, mechanical design, SolidWorks, prototyping, testing, and additive manufacturing. The Spray-painting robot introduced me to automation through ClickPLC and VTScada. I learned ladder logic, critical thinking, and how to read P&ID drawings. In my third year of university, my team of seven were tasked with manufacturing multiple components to create a remote-controlled car. We thermoformed the shell, 3D-printed an injection-moulded prototype for the ladder, and sand-cast aluminum wheels. I made all of the SolidWorks models seen below. I tested the injection moulding capability of the die with simulations and generated the following engineering drawings. Check it out! 
+Below is a quick portfolio covering three major projects that helped develop my engineering skills. Check it out! 
+<br><br>
+<iframe
+    src="{{ 'Engineering Portfolio.pdf' | relative_url }}"
+    width="100%"
+    height="800px"
+    style="border: none;">
+</iframe>
+
+<br><br>
+
+The carousel developed skills such as problem-solving, mechanical design, SolidWorks, prototyping, testing, and additive manufacturing. The Spray-painting robot introduced me to automation through ClickPLC and VTScada. I learned ladder logic, critical thinking, and how to read P&ID drawings. In my third year of university, my team of seven were tasked with manufacturing multiple components to create a remote-controlled car. We thermoformed the shell, 3D-printed an injection-moulded prototype for the ladder, and sand-cast aluminum wheels. I made all of the SolidWorks models, tested the injection moulding capability of the die with simulations and generated the engineering drawings myself.
   </p>
 </details>
 
